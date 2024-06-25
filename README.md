@@ -25,11 +25,13 @@ Retriever password of RAR file
    cd rar-password-retriever
 ## Usage
 
-1. Run the application:
+1. Run cmd
+2. Copy and paste
+    ```bash
   `python rar.py`
-2. Select a RAR file using the "Browse" button.
-3. Choose password options and specify the password length range.
-4. Click on "Retrieve Password" to start the retrieval process.
-5. Monitor the tried passwords in the text area.
+3. Select a RAR file using the "Browse" button.
+4. Choose password options and specify the password length range.
+5. Click on "Retrieve Password" to start the retrieval process.
+6. Monitor the tried passwords in the text area.
 5. Click "Cancel" to stop the retrieval process.
 6. When the password is found, a new window will display the found password.
