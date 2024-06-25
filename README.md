@@ -21,8 +21,8 @@ Retriever password of RAR file
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/RdwnBut/rar-password-retriever.git
-   cd rar-password-retriever
+   git clone https://github.com/RdwnBut/Retriever-RAR
+   cd Retriever-RAR
 ## Usage
 
 1. Run cmd
