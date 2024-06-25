@@ -35,3 +35,8 @@ Retriever password of RAR file
 6. Monitor the tried passwords in the text area.
 5. Click "Cancel" to stop the retrieval process.
 6. When the password is found, a new window will display the found password.
+
+## Next Upadte
+
+- Will supprort other file compress (zip, 7-zip, etc)
+- Fix Bug
