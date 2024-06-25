@@ -28,7 +28,7 @@ Retriever password of RAR file
 1. Run cmd
 2. Copy and paste
     ```bash
-  `python rar.py`
+    py rar.py
 3. Select a RAR file using the "Browse" button.
 4. Choose password options and specify the password length range.
 5. Click on "Retrieve Password" to start the retrieval process.
